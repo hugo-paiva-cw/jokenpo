@@ -1,4 +1,4 @@
-# jokenpo
+# jokenpo 2º app
 
 A new Flutter project.
 
